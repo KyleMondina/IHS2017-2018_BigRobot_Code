@@ -17,9 +17,9 @@
 
 	This function makes the robot turn 90 degrees to the right at a given speed.
 
-**turnLeft190	[Category: Turning Functions]**
+**turnLeft90	[Category: Turning Functions]**
 
-	Format: void turnLeft190 ( int speed );**
+	Format: void turnLeft90 ( int speed );**
 
 	This function makes the robot turn 90 degrees to the left at a given speed.
 
